@@ -58,4 +58,3 @@ Contributions to enhance functionality, add new features, or fix issues are welc
 
 ---
 
-Feel free to adjust or expand upon this description based on your project's specific details and requirements.
